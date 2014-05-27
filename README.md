@@ -19,7 +19,7 @@ With GroupDocs signature plugin for ezPublish you can easily [sign documents onl
 * [Download signature plugin package here](https://github.com/groupdocs/ez-groupdocs-signature)
 * [See source code for GroupDocs signature plugin for ezPublish CMS](https://github.com/groupdocs/ez-groupdocs-signature-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
 
 ###ChangeLog
 2013-04-05
